@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=97-vinash.97-vinash" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=97-vinash.97-vinash" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Avinash+Shankar!;" />
@@ -35,7 +35,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,c++,java,python,javascript,nodejs,mysql" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,nodejs,mysql" />
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git,r" /><br>
 </div>
 
