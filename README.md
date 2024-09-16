@@ -30,6 +30,12 @@
   </a>
 </div>
 
+<p align="center">
+<a href="https://linkedin.com/in/avinash-shankar-643809249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avinash-shankar-643809249" height="30" width="40" /></a>
+<a href="https://instagram.com/https:/imaginary_fx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imaginary_fx" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/97-vinash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="97-vinash" height="30" width="40" /></a>
+</p>
+
  <hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
@@ -46,8 +52,7 @@
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/97-vinash/97-vinash/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
+  <br/>
 </div>
 
 <hr/>
