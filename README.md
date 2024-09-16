@@ -40,11 +40,14 @@
     <a href="https://www.hackerrank.com/profile/avinashhhsinghhh" target="_blank">
         <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
     </a>
+    <a href="https://www.youtube.com/channel/UC1e1ZYdr5SBj0iMiK9HOw9Q" target="_blank">
+        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+    </a>
     <a href="https://www.linkedin.com/in/avinash-shankar-643809249/" target="_blank">
         <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" />
     </a>
-    <a href="https://www.youtube.com/channel/UC1e1ZYdr5SBj0iMiK9HOw9Q" target="_blank">
-        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+    <a href="https://www.instagram.com/imaginary_fx/" target="_blank">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
     </a>
 </div>
 
