@@ -30,10 +30,13 @@
   </a>
 </div>
 
+ <hr/>
+<h2 align="center">⚒🌐 Socials 🌐</h2>
+<br/>
 <p align="center">
-<a href="https://linkedin.com/in/avinash-shankar-643809249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avinash-shankar-643809249" height="30" width="40" /></a>
-<a href="https://instagram.com/https:/imaginary_fx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imaginary_fx" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/97-vinash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="97-vinash" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/avinash-shankar-643809249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avinash-shankar-643809249" height="30" width="40" /></a>
+    <a href="https://instagram.com/https:/imaginary_fx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imaginary_fx" height="30" width="40" /></a>
+    <a href="https://www.leetcode.com/97_vinash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="97_vinash" height="30" width="40" /></a>
 </p>
 
  <hr/>
