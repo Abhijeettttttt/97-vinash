@@ -8,6 +8,7 @@
 <br/>
 
 <div align="center">
+    
  🔭 I’m currently studying at **SRM University**
  
  🌱 I’m currently learning **React.js, Three.js, DSA**
@@ -27,6 +28,7 @@
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
+<br/>
  <hr/>
  
 <h2 align="center">🌐 Socials 🌐</h2>
@@ -49,6 +51,7 @@
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
     </a>
     <br/>
+    <br/>
 </div>
  <hr/>
  
@@ -59,7 +62,6 @@
     <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,nodejs,mysql" />
     <img src="https://skillicons.dev/icons?i=react,github,git,figma,blender,unity,autocad,bootstrap,html,css,tailwind,vscode" /><br>
 </div>
-
 <br/>
 <hr/>
 
@@ -80,5 +82,5 @@
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=97-vinash&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=pie)<br/>
   
 </div>
-
+<br/>
 <hr/>
