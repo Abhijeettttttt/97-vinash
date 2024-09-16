@@ -33,16 +33,20 @@
  <hr/>
 <h2 align="center">🌐 Socials 🌐</h2>
 <br/>
-<p align="center">
-    <a href="https://linkedin.com/in/avinash-shankar-643809249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avinash-shankar-643809249" height="30" width="40" /></a>
-    <a href="https://instagram.com/https:/imaginary_fx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imaginary_fx" height="30" width="40" /></a>
-    <a href="https://www.leetcode.com/97_vinash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="97_vinash" height="30" width="40" /></a>
-    <a href="https://www.hackerrank.com/profile/avinashhhsinghhh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hacker-rank.svg" alt="avinashhhsinghhh" height="30" width="40" /></a>
-    <a href="https://www.hackerrank.com/profile/avinashhhsinghhh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hacker-rank.svg" alt="avinashhhsinghhh" height="30" width="40" /></a>
-    <a href="https://www.hackerrank.com/profile/avinashhhsinghhh">
-    <img src="https://img.shields.io/badge/Hackerrank-333333?style=for-the-badge&logo=hackerrank&logoColor=red" />
-  </a>
-</p>
+<div align="center">
+    <a href="https://www.leetcode.com/97_vinash" target="_blank">
+        <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+    </a>
+    <a href="https://www.hackerrank.com/profile/avinashhhsinghhh" target="_blank">
+        <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
+    </a>
+    <a href="https://www.linkedin.com/in/avinash-shankar-643809249/" target="_blank">
+        <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" />
+    </a>
+    <a href="https://www.youtube.com/channel/UC1e1ZYdr5SBj0iMiK9HOw9Q" target="_blank">
+        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+    </a>
+</div>
 
  <hr/>
  
