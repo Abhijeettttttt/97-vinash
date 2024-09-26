@@ -75,11 +75,16 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div align=center>
-    
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=97-vinash&theme=dark&hide_border=false)<br/>
-  ![](https://github-readme-stats-five-rust-41.vercel.app/api?username=97-vinash&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=97-vinash&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=pie)<br/>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=97-vinash#version3"/>
+  </a>
+  <div align="center">
+<a href="https://github.com/97-vinash">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=97-vinash&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=97-vinash&layout=compact&langs_count=7&theme=default"/></a>
+</div>
+<br/>
   
 </div>
 <br/>
